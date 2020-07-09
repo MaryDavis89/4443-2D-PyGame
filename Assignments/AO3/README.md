@@ -4,4 +4,4 @@ This assignment was to setup your python enviroment and use test code to ensure 
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | Main.py         | Main driver of my project that launches game.      |
+|   1   | main.py         | Main driver of my project that launches game.      |
