@@ -4,4 +4,4 @@ This assignment was to setup your python enviroment and use test code to ensure 
 
 |   #   | File             | Description                                        |
 | :---: | :--------------- | :-------------------------------------------------- |
-|   1   | [main.py] (https://github.com/MaryDavis89/4443-2D-PyGame-Davis/blob/master/Assignments/AO3/main.py)       | Main driver of my project that launches game.      |
+|   1   | [main.py](https://github.com/MaryDavis89/4443-2D-PyGame-Davis/blob/master/Assignments/AO3/main.py)       | Main driver of my project that launches game.      |
