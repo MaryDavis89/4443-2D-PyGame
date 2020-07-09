@@ -2,4 +2,4 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-| AO3   | main.py     | Testing python setup   |
+| 1     | AO3         | Testing python setup   |
